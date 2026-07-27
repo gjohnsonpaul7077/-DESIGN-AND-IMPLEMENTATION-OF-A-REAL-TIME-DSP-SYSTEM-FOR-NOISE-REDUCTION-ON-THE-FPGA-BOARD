@@ -1,4 +1,4 @@
-# Real-Time Audio Noise Suppression on FPGA Using a DLMS Adaptive Filter
+# Design and Implementation of a real time DSP system for noise reduction on the FPGA BOARD
 
 ## Overview
 
